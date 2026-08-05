@@ -4,4 +4,3 @@ This project develops a structured SQL database for Amazon Fresh and performs co
 
 <img width="891" height="503" alt="image" src="https://github.com/user-attachments/assets/711cdf34-7746-48fd-8bfa-b34f74702284" />
 
-<img width="894" height="498" alt="image" src="https://github.com/user-attachments/assets/f31b9e64-7c18-493f-99a9-1c08d7e39ed0" />
